@@ -4,13 +4,15 @@
 
 ```
   .--.
- |o_o |    build fast. ship often. stay curious.
+ |o_o |
  |:_/ |
 //   \ \
 (|     | )
 /'\_   _/`\
 \___)=(___/
 ```
+
+*build fast. ship often. stay curious.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Penguin--Life-181717?style=flat-square&logo=github)](https://github.com/Penguin-Life)
 [![Crypto](https://img.shields.io/badge/Web3-Native-F7931A?style=flat-square&logo=bitcoin&logoColor=white)](#)
