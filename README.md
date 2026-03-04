@@ -107,6 +107,10 @@ Cross-chain crypto swap skill for AI agents — BTC, ETH, XMR, SOL, and more via
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Penguin-Life&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Penguin-Life&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="95%" />
+
 </div>
 
 ---
